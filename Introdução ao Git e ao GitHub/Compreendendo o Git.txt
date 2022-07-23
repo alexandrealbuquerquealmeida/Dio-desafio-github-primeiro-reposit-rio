@@ -1,0 +1,28 @@
+1. O QUE É O GIT
+
+O Git é um projeto de código aberto maduro e com manutenção ativa,
+desenvolvido em 2005 por Linus Torvalds.
+
+Incontáveis projetos de software dependem do Git
+para controle de versão, incluindo projetos comerciais e de código-fonte
+aberto. 
+
+Com arquitetura distribuída, o Git é um exemplo de DVCS (Sistema de Controle
+de Versão Distribuído), ou seja, ao invés de ter apenas um local para o
+histórico completo da versão do software, como é comum em sistemas
+de controle de versão antigos CVS ou Subversion (conhecido como SVN), no Git, 
+a cópia de trabalho de todo desenvolvedor do código também é um
+repositório que pode conter o histórico completo de todas as alterações.
+
+Além de ser distribuído, o Git foi projetado com desempenho, segurança
+e flexibilidade em mente.
+
+FONTE: https://www.atlassian.com/br/git/tutorials/what-is-git
+
+2. INSTALANDO O GIT
+
+vide: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+
+3. Comandos básicos do GIT.
+
+vide: "C:\Workspace\Dio\Dio-desafio-github-primeiro-repositorio\Introdução ao Git e ao GitHub\Comandos Básicos do Git.md"
